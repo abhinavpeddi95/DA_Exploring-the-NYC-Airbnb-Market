@@ -1,6 +1,5 @@
 # Exploring-the-NYC-Airbnb-Market
 
-# Welcome to New York City (NYC), one of the most-visited cities in the world. As a result, there are many Airbnb listings to meet the high demand for temporary lodging for anywhere between a few nights to many months. We will take a look at the NYC Airbnb market by combining data from multiple file types like .csv, .tsv, and .xlsx.
 
 # The goal is to convert untidy data into appropriate formats to analyze, and answer key questions including:
 
