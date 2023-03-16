@@ -1,7 +1,8 @@
 # Exploring-the-NYC-Airbnb-Market
 #Our goals are to convert untidy data into appropriate formats to analyze, and answer key questions including:
 
- 1.What is the average price, per night, of an Airbnb listing in NYC?
+
+1.What is the average price, per night, of an Airbnb listing in NYC?
 
 2. How does the average price of an Airbnb listing, per month, compare to the private rental market?
 
